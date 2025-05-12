@@ -214,8 +214,13 @@ img {
     font-weight: 600;
 }
 
+
 .feature-text {
     font-size: 16px;
+}
+
+.features-item:last-child {
+    margin-right: 0;
 }
 
 /* Team section */
